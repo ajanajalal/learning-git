@@ -1,6 +1,6 @@
 # learning-git
 
-##this repo was used to learn git
+## this repo was used to learn git
 
 this is a tutorial 
 
